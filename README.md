@@ -1,3 +1,4 @@
+![logo](https://github.com/adiagrawal24/adiagrawal24/blob/main/Github%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Aditya Agrawal</h1>
 <h3 align="center">A passionate Mechatronics Engineer from India</h3>
 <img align="right" alt="Robotics" width ="400" src="https://cdn.dribbble.com/users/113005/screenshots/1268387/process-gif.gif">
