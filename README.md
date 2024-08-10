@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiagrawal24&label=Profile%20views&color=0e75b6&style=flat" alt="adiagrawal24" /> </p>
 
-- 🔭 I’m currently working on **IOT - Internet of Things**
+- 🔭 I’m currently working on **ROS2 and IOT - Internet of Things**
 
 - 🌱 I’m currently learning **MATLAB , Introduction to Robotics , Raspberry Pi**
 
