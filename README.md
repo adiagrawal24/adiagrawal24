@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://youtube.com/@letsbuildit2427](https://youtube.com/@letsbuildit2427)
 
+- 📝 My Notion Link is [https://www.notion.so/ROS2-LINUX-b4243482cf424ac8a227ad0801275762?pvs=4](https://www.notion.so/ROS2-LINUX-b4243482cf424ac8a227ad0801275762?pvs=4)
+
 - 📫 How to reach me **adiaaa01@gmail.com**
 
 - ⚡ Fun fact **Curiosity-driven coder exploring the fascinating realms of robotics. 🚀👩‍💻🤖**
