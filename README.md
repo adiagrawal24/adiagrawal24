@@ -1,13 +1,13 @@
 ![logo](https://github.com/adiagrawal24/adiagrawal24/blob/main/Github%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Aditya Agrawal</h1>
-<h3 align="center">A passionate Mechatronics Engineer from India</h3>
+<h3 align="center">A passionate Robotics Engineer from India</h3>
 <img align="right" alt="Robotics" width ="400" src="https://cdn.dribbble.com/users/113005/screenshots/1268387/process-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiagrawal24&label=Profile%20views&color=0e75b6&style=flat" alt="adiagrawal24" /> </p>
 
 - 🔭 I’m currently working on **ROS2 and IOT - Internet of Things**
 
-- 🌱 I’m currently learning **MATLAB , Introduction to Robotics , Raspberry Pi**
+- 🌱 I’m currently learning **ROS2, SLAM, Nav2, Gazebo, Rviz, Robotics**
 
 - 👨‍💻 All of my projects are available at [https://youtube.com/@letsbuildit2427](https://youtube.com/@letsbuildit2427)
 
